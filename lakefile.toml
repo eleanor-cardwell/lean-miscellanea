@@ -1,0 +1,6 @@
+name = "Miscellanea"
+version = "0.1.0"
+defaultTargets = ["Miscellanea"]
+
+[[lean_lib]]
+name = "Miscellanea"
