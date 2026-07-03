@@ -4,3 +4,7 @@ defaultTargets = ["Miscellanea"]
 
 [[lean_lib]]
 name = "Miscellanea"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
